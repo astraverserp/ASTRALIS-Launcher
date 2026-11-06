@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  "1.0.0",
     "rss":  "\u003cLINK TO RSS FEED\u003e",
     "discord":  {
@@ -2105,7 +2105,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  54997,
-                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.2/199_dabefd4e12de_Sildur\u0027s%20Enhanced%20Default%20v1.20%20Fast.zip",
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.2/199_dabefd4e12de_Sildur.s.Enhanced.Default.v1.20.Fast.zip",
                                                              "MD5":  "dabefd4e12de2c18fc70f77bc98dd4e8",
                                                              "path":  "shaderpacks/Sildur\u0027s Enhanced Default v1.20 Fast.zip"
                                                          }
