@@ -9,10 +9,10 @@
     "servers":  [
                     {
                         "id":  "ASTRALIS-1.20.1",
-                        "name":  "ASTRALIS 26.2",
+                        "name":  "ASTRALIS 26.3",
                         "description":  "ASTRALIS - Minecraft 1.20.1 | Forge 47.4.22 | Modpack oficial de Chepes",
                         "icon":  null,
-                        "version":  "26.2",
+                        "version":  "26.3",
                         "address":  "shrimp-recruited.tun.ply.gg:25565",
                         "minecraftVersion":  "1.20.1",
                         "mainServer":  true,
@@ -594,6 +594,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "io.ejekta:bountiful:6.0.4+1.20.1@jar",
+                                            "name":  "Bountiful",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  502662,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_14437740bee5_Bountiful-6.0.4_1.20.1-forge.jar",
+                                                             "MD5":  "14437740bee567400d0bafbf028434b6"
+                                                         }
+                                        },
+                                        {
                                             "id":  "earth.terrarium:chipped:3.0.7@jar",
                                             "name":  "Chipped",
                                             "type":  "ForgeMod",
@@ -634,6 +644,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "dev.xylonity:companions:1.3.9@jar",
+                                            "name":  "Companions!",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  7226244,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_43f8ae4d183c_companions-forge-1.20.1-1.3.9.jar",
+                                                             "MD5":  "43f8ae4d183c2c32b7d891c02463ffae"
+                                                         }
+                                        },
+                                        {
                                             "id":  "com.blamejared:controlling:12.0.2@jar",
                                             "name":  "Controlling",
                                             "type":  "ForgeMod",
@@ -654,6 +674,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "com.dragn0007:chocobos:1.2@jar",
+                                            "name":  "Crazy Chocobos!",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  564981,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_4e6ac29625a4_Crazy_Chocobos-1.20.1-1.2.jar",
+                                                             "MD5":  "4e6ac29625a4bd3814ea38f00700c959"
+                                                         }
+                                        },
+                                        {
                                             "id":  "com.simibubi:create:6.0.8@jar",
                                             "name":  "Create",
                                             "type":  "ForgeMod",
@@ -671,6 +701,16 @@
                                                              "size":  22474,
                                                              "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.2/062_a675b07bb3fb_CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
                                                              "MD5":  "a675b07bb3fbe0d6a8d9559190133fd3"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "com.cupboard:cupboard:1.20.1-4.2@jar",
+                                            "name":  "Cupboard utilities",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  33422,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_c44e0bbce848_cupboard-1.20.1-4.2.jar",
+                                                             "MD5":  "c44e0bbce8481bdc54cd859669bc3930"
                                                          }
                                         },
                                         {
@@ -874,6 +914,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "gaia:grimoireofgaia:4.0.0-alpha.12@jar",
+                                            "name":  "Grimoire of Gaia 4",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  3464825,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_c4d190647a6a_GrimoireOfGaia4-1.20.1-4.0.0-alpha.12.jar",
+                                                             "MD5":  "c4d190647a6a12254e18b581bbcfd029"
+                                                         }
+                                        },
+                                        {
                                             "id":  "earth.terrarium:handcrafted:3.0.6@jar",
                                             "name":  "Handcrafted",
                                             "type":  "ForgeMod",
@@ -944,6 +994,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "com.anthonyhilyard:itemborders:1.2.2@jar",
+                                            "name":  "Item Borders",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  20832,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_793065b9ff71_ItemBorders-1.20.1-forge-1.2.2.jar",
+                                                             "MD5":  "793065b9ff71daee43319db717dac23f"
+                                                         }
+                                        },
+                                        {
                                             "id":  "snownee.jade:jade:11.13.3+forge@jar",
                                             "name":  "Jade",
                                             "type":  "ForgeMod",
@@ -961,6 +1021,16 @@
                                                              "size":  1657261,
                                                              "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.2/091_275c0f606ca0_jei-1.20.1-forge-15.48.0.179.jar",
                                                              "MD5":  "275c0f606ca07239627fe467eff7aadc"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "io.ejekta:kambrik:6.1.1+1.20.1@jar",
+                                            "name":  "Kambrik",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  325546,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_5cb26d3e5991_Kambrik-6.1.1_1.20.1-forge.jar",
+                                                             "MD5":  "5cb26d3e599145ca834e736f64dcd363"
                                                          }
                                         },
                                         {
@@ -991,6 +1061,16 @@
                                                              "size":  625185,
                                                              "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.2/094_d69107c593e3_konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
                                                              "MD5":  "d69107c593e361e1b7b96733250bd098"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "generated.forgemod:kotlinforforge:4.12.0-all@jar",
+                                            "name":  "Kotlinforforge",
+                                            "type":  "ForgeMod",
+                                            "artifact":  {
+                                                             "size":  7442998,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_d6a40dede74e_kotlinforforge-4.12.0-all.jar",
+                                                             "MD5":  "d6a40dede74edbe646b34a1bafd53b4d"
                                                          }
                                         },
                                         {
@@ -1653,9 +1733,9 @@
                                             "name":  "astralis_main.txt",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  74838,
-                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.2/158_936c29c3c474_astralis_main.txt",
-                                                             "MD5":  "936c29c3c4748d9973467a5c2a8e2afe",
+                                                             "size":  74824,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_4bbc9eef29e7_astralis_main.txt",
+                                                             "MD5":  "4bbc9eef29e7f1428ed0230856a149e8",
                                                              "path":  "config/fancymenu/customization/astralis_main.txt"
                                                          }
                                         },
@@ -1675,9 +1755,9 @@
                                             "name":  "pause_screen_layout.txt",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  40468,
-                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.2/160_704c03f25ba2_pause_screen_layout.txt",
-                                                             "MD5":  "704c03f25ba2e17cedf755ab4ef18fc6",
+                                                             "size":  43199,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_4821b1b1e84b_pause_screen_layout.txt",
+                                                             "MD5":  "4821b1b1e84b6d99069a76bf0a561d65",
                                                              "path":  "config/fancymenu/customization/pause_screen_layout.txt"
                                                          }
                                         },
