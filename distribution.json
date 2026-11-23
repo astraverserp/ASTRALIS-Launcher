@@ -9,10 +9,10 @@
     "servers":  [
                     {
                         "id":  "ASTRALIS-1.20.1",
-                        "name":  "ASTRALIS 26.3",
+                        "name":  "ASTRALIS 26.4",
                         "description":  "ASTRALIS - Minecraft 1.20.1 | Forge 47.4.22 | Modpack oficial de Chepes",
                         "icon":  null,
-                        "version":  "26.3",
+                        "version":  "26.4",
                         "address":  "shrimp-recruited.tun.ply.gg:25565",
                         "minecraftVersion":  "1.20.1",
                         "mainServer":  true,
@@ -1733,9 +1733,9 @@
                                             "name":  "astralis_main.txt",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  74824,
-                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.3/nuevo_4bbc9eef29e7_astralis_main.txt",
-                                                             "MD5":  "4bbc9eef29e7f1428ed0230856a149e8",
+                                                             "size":  74840,
+                                                             "url":  "https://github.com/astraverserp/ASTRALIS-Launcher/releases/download/v26.4/nuevo_fd5b9934c275_astralis_main.txt",
+                                                             "MD5":  "fd5b9934c275f384ee1104e8a605f941",
                                                              "path":  "config/fancymenu/customization/astralis_main.txt"
                                                          }
                                         },
